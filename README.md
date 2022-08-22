@@ -1,10 +1,16 @@
 ### Olá 👋
 
-Meu nome é Jhordan, tenho 25 anos e sou um Engenheiro de Software com mais de 7 anos de experiência em desenvolvimento de aplicações para diversos ramos de atuação.
+Meu nome é Jhordan, tenho 25 anos e atuo como Engenheiro de Software, possuindo mais de 7 anos de experiência em desenvolvimento de aplicações para diversos ramos de atuação.
 
-- 📚 Estudante de Ciência da Computação na Unisinos (quase lá 😅);
-- 🤓 Nerd. Apaixonado por: Videogame(🎮), Futebol(⚽), Musculação( 💪), Cultura Pop(🎥)  e Programação(👨🏻‍💻);
-- 🇪🇪 Torcedor fanático do Grêmio;
+- 📚 Estudante de Ciência da Computação pela Unisinos (quase lá 😅)
+
+- 🤓 Nerd e Apaixonado por:
+    🎮 Videogame 
+    ⚽ Futebol
+    🎥 Cultura Pop
+    👨🏻‍💻 Programação
+    🇪🇪 Grêmio
+    💪 Musculação    
 
     ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jhordanpacheco)
 
