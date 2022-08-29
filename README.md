@@ -12,7 +12,7 @@ Meu nome é Jhordan, tenho 25 anos e atuo como Engenheiro de Software, possuindo
     - ⚽ Futebol
     - 🤓 Cultura Pop
     - 👨🏻‍💻 Programação
-    - 🇪🇪 Grêmio
+    - 💙 Grêmio
     - 🎧 Música e Podcast
     - ⚡ Monster (sim, o energético)
     - ☕ Café
