@@ -5,7 +5,7 @@
 
 Meu nome é Jhordan, tenho 25 anos e atuo como Engenheiro de Software, possuindo mais de 7 anos de experiência em desenvolvimento de aplicações para diversos ramos de atuação. Atualmente (e nos últimos anos) trabalhando e focando meus estudos em .NET
 
-- 📚 Estudante de Ciência da Computação pela Unisinos (quase lá 😅)... quem sabe um mestrado depois, hein? 🤔
+- 📚 Estudante de Ciência da Computação pela Unisinos (quase lá 😅)... quem sabe um mestrado/doutorado depois, hein? 🤔
 
 - Uma maneira fácil de resumir um pouco de quem sou, talvez seja listando as minhas principais paixões, segue:
     - 🎮 Videogame 
