@@ -3,11 +3,11 @@
 
 ### Olá 👋
 
-Meu nome é Jhordan, atuo como Tech Lead na Ambev Tech, possuo experiência em desenvolvimento de aplicações para diversos ramos de atuação.
+Meu nome é Jhordan Pacheco, nasci em 1997 e sou do RS. Desde 2015 atuando no mundo do desenvolvimento de software.
 
-- 📚 Formado em Ciência da Computação pela Unisinos, com ênfase em Inteligência Artificial e Machine Learning.
-
-- Uma maneira fácil de resumir um pouco de quem sou, talvez seja listando as minhas principais paixões, seguem:
+- 👨🏻‍💻 Tech Lead na Ambev Tech;
+- 📚 Formado em Ciência da Computação pela Unisinos, com ênfase em Inteligência Artificial e Machine Learning;
+- Resumindo minha vida em emojis e pequenas descrições:
     - 🎮 Videogame 
     - ⚽ Futebol
     - 🤓 Cultura Pop
@@ -17,3 +17,5 @@ Meu nome é Jhordan, atuo como Tech Lead na Ambev Tech, possuo experiência em d
     - ⚡ Monster (sim, o energético)
     - ☕ Café
     - 💪 Musculação
+
+Se quiser me contatar, me manda um e-mail jhordanpacheco@gmail.com :)
