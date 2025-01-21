@@ -7,7 +7,7 @@ Meu nome é Jhordan Pacheco, nasci em 1997 e sou do RS. Desde 2015 atuando no mu
 
 - 👨🏻‍💻 Tech Lead na Ambev Tech;
 - 📚 Formado em Ciência da Computação pela Unisinos, com ênfase em Inteligência Artificial e Machine Learning;
-- Resumindo minha vida em emojis e pequenas descrições:
+- Resumindo minhas paixões com emojis e pequenas descrições:
     - 🎮 Videogame 
     - ⚽ Futebol
     - 🤓 Cultura Pop
